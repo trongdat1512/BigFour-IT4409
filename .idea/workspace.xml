@@ -19,7 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b752657-a9e7-4267-bcba-cc963b6698af" name="Default Changelist" comment="" />
+    <list default="true" id="2b752657-a9e7-4267-bcba-cc963b6698af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab/2-1/DinhTrongDat-20173010/Exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-1/DinhTrongDat-20173010/Exercise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-1/DinhTrongDat-20173010/Expression.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-1/DinhTrongDat-20173010/Form4Radio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-1/DinhTrongDat-20173010/Form4Radio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-1/DinhTrongDat-20173010/basicform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-1/NguyenThieuQuang-20173331/Form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-1/NguyenThieuQuang-20173331/FormController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-2/DinhTrongDat-20173010/ConditionalTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-2/DinhTrongDat-20173010/ConditionalTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-2/DinhTrongDat-20173010/DateTimeProcessing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-2/DinhTrongDat-20173010/SquareCube.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/2-2/NguyenThieuQuang-20173331/Date.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/02/NguyenThieuQuang-20173331/Date.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/02/NguyenThieuQuang-20173331/Form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/02/NguyenThieuQuang-20173331/FormController.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +56,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\xampp\htdocs\BigFour-IT4409" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1qCv0KA9CxC3s5ht7tgzQOdVMqD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,11 +68,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,7 +81,22 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Script.SquareCube.php">
+    <configuration name="Expression.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lab/2-1/DinhTrongDat-20173010/Expression.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="SquareCube.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lab/2-2/DinhTrongDat-20173010/SquareCube.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.SquareCube.php" />
+        <item itemvalue="PHP Script.Expression.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,6 +107,8 @@
       <option name="presentableId" value="Default" />
       <updated>1616596164028</updated>
       <workItem from="1616596166030" duration="3203000" />
+      <workItem from="1616810924777" duration="521000" />
+      <workItem from="1617196723132" duration="9454000" />
     </task>
     <servers />
   </component>
@@ -86,5 +125,75 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="194" key="#CLI_Interpreters" timestamp="1617204969460">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="509" y="194" key="#CLI_Interpreters/0.0.1858.1080@0.0.1858.1080" timestamp="1617204969460" />
+    <state x="720" y="428" key="#Chrome_Settings" timestamp="1617197653779">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="720" y="428" key="#Chrome_Settings/0.0.1858.1080@0.0.1858.1080" timestamp="1617197653779" />
+    <state x="636" y="182" key="#PHP" timestamp="1617197199999">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="636" y="182" key="#PHP/0.0.1858.1080@0.0.1858.1080" timestamp="1617197199999" />
+    <state x="644" y="361" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1617198882293">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="644" y="361" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.0.1858.1080@0.0.1858.1080" timestamp="1617198882293" />
+    <state x="709" y="294" key="FileChooserDialogImpl" timestamp="1617198449464">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="294" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1617198449464" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1617204533021">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1617204533021" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1617204533021">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1617204533021" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1617204533021">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1617204533021" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1617204533021">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1617204533021" />
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1617198918642">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1617198918642" />
+    <state width="1815" height="364" key="GridCell.Tab.1.center" timestamp="1617198918641">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1617198918641" />
+    <state width="1815" height="364" key="GridCell.Tab.1.left" timestamp="1617198918641">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1617198918641" />
+    <state width="1815" height="364" key="GridCell.Tab.1.right" timestamp="1617198918642">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1617198918642" />
+    <state x="763" y="463" key="NewPhpFileDialog" timestamp="1617205024311">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="763" y="463" key="NewPhpFileDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1617205024311" />
+    <state x="430" y="184" key="SettingsEditor" timestamp="1617204970109">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="430" y="184" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1617204970109" />
+    <state x="126" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1617198719479">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="126" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1617198719479" />
   </component>
 </project>
