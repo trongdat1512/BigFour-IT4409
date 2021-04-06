@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function linkMouseOver(color) {
+            document.getElementById(color+"Paragraph").setAttribute('style', "color: " + color);
+        }
+        function linkMouseOut(color) {
+            document.getElementById(color + "Paragraph").setAttribute('style', "color: black");
+        }
+    </script>
+</head>
+
+<body>
+    <a id="redLink" href="#" onmouseover="linkMouseOver('red')" onmouseout="linkMouseOut('red')">RED</a>
+    <p id="redParagraph" >
+        hehehe
+    </p>
+    <a id="greenLink" href="#" onmouseover="linkMouseOver('green')" onmouseout="linkMouseOut('green')">GREEN</a>
+    <p id="greenParagraph" >
+        hehehe
+    </p>
+    <a id="blueLink" href="#" onmouseover="linkMouseOver('blue')" onmouseout="linkMouseOut('blue')">BLUE</a>
+    <p id="blueParagraph" >
+        hehehe
+    </p>
+</body>
+
+</html>
